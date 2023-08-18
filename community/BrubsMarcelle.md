@@ -10,7 +10,7 @@ Sou estudante de ciência da computação na faculdade <img width="10" height="1
 [![GitHub Streak](https://streak-stats.demolab.com?user=BrubsMarcelle&theme=bear&background=000&&dates=FFF&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <div align="start">
-  <a href="https://github.com/CaioCarv">
+  <a href="https://github.com/BrubsMarcelle>
   <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=BrubsMarcelle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
